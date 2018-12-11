@@ -7,6 +7,7 @@ voip call over astersik on linux with zoiper android client
 
 
 ## 2. config astersik 
+you can read zoiper documentation  [Zoiper](https://www.zoiper.com/downloads/documentation/How_to_place_video_calls_with_Zoiper3.pdf).
 copy following code into ```/etc/astersik/sip.conf```
 ```
 [general]
